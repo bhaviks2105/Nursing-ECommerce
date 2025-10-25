@@ -621,14 +621,3 @@ This project is an **Academic Project** developed at LJ University.
 
 ---
 
-## 📊 Project Statistics
-
-- **Development Period:** 6 months (Sept 2023 - March 2024)
-- **Lines of Code:** ~15,000+
-- **Models:** 12+
-- **Views:** 50+
-- **Templates:** 30+
-- **API Endpoints:** 20+
-
----
-
