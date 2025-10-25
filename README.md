@@ -615,9 +615,6 @@ This project is an **Academic Project** developed at LJ University.
 ---
 
 ## 🙏 Acknowledgments
-
-- **LJ University** - For providing the opportunity and guidance
-- **Project Guide/Mentor** - [Name] (If applicable)
 - **Django Community** - For excellent documentation and support
 - **Bootstrap Team** - For the responsive framework
 - **Open Source Contributors** - For various libraries and tools used
@@ -635,12 +632,3 @@ This project is an **Academic Project** developed at LJ University.
 
 ---
 
-
-
-<div align="center">
-
-### ⭐ If you find this project useful, please consider giving it a star!
-
-**Made with ❤️ by Bhavik S | LJ University**
-
-</div>
