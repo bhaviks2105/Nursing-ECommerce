@@ -1,0 +1,133 @@
+{% extends 'plants/base.html' %}
+{% load static %}
+{% block title %} Home {% endblock title %}
+
+{% block banner_slider %}
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{% static 'plants/images/banner/main6.jpg' %}" class="d-block w-100" alt="">
+    </div>
+    <div class="carousel-item">
+      <img src="{% static 'plants/images/banner/main31.jpeg' %}" class="d-block w-100" alt="">
+    </div>
+    <div class="carousel-item">
+      <img src="{% static 'plants/images/banner/main44.jpeg' %}" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="{% static 'plants/images/banner/main55.jpeg' %}" class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+<br>
+{% endblock banner_slider %}
+
+{% block information %}
+<div class="container">
+  <div class="row bg-success text-center p-5 text-white border-bottom shadow">
+    <h1>Nursing Plants</h1>
+    <p class="fs-5">Welcome to Nursery Haven, your ultimate destination for all things green and growing! We are more than just an e-commerce website – we're your partners in cultivating a greener, more vibrant world. Our journey began with a shared passion for plants and a deep-rooted desire to make the beauty of nature accessible to all, right from the comfort of your home.</p>
+  </div>
+</div>
+{% endblock information %}
+
+{% block main-content %}
+<div class="container">
+  <h2 class="mt-5 mb-3">Featured Plants</h2>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="{% static 'plants/images/product/seasonrt.jpeg' %}" alt="Plant 1" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Peace Lily, Spathiphyllum</h5>
+          <p class="card-text">Peace Lily Plant is a very popular and very rare indoor flowering houseplant. It is also an excellent air purifier plant. One of the rarest indoor flowering plant. NASA recommended air purifier flowering plant. Easy to care and low maintenance plant. Best for office desk, bedroom. 1.</p>
+          <p class="card-text">Price: ₹ 699 </p>
+
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="{% static 'plants/images/product/flowering2t.jpeg' %}" alt="Plant 2" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Jasminum sambac, Mogra, Arabian Jasmine</h5>
+          <p class="card-text">
+        This product does not have the flowers at the time of shipping. Afterward, the plant will bloom and it could be of a white-colored flowe. The Jasminum sambac bears white flowers and is an evergreen shrub with dark green foliage.</p>
+          <p class="card-text">Price: ₹ 350 </p>
+
+        </div>
+      </div>
+    </div>
+
+ <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="{% static 'plants/images/product/foliage4.jpg' %}" alt="Plant 2" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Money Plant</h5>
+          <p class="card-text">Money plants are best to fill the house with greenery and to bring prosperity and good luck. What makes it special: NASA recommended air purifier plant. Best plant for AC rooms, office desk. Popular low maintainence, good luck plant. Best for both indoor and outdoor.</p>
+          <p class="card-text">Price: ₹ 287  </p>
+
+        </div>
+      </div>
+    </div>
+    <!-- Add more featured plant cards as needed -->
+  </div>
+
+
+  <div class="container">
+  <h1 class="mt-5 mb-3">Review </h1>
+  <div class="row">
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="{% static 'plants/images/reviews/review1.jpg' %}" alt="Plant 1" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Maharshi</h5>
+          <p class="card-text">
+            ⭐⭐⭐
+            <br>
+            I recently purchased the Jasminum Sambac, commonly known as Mogra or Arabian Jasmine, and have mixed feelings about my purchase. The plant arrived in decent condition, but it didn't quite meet my expectations. While the fragrance is pleasant and the blossoms are lovely, the overall growth seemed somewhat stunted. It's been a bit slow to flourish compared to other plants in my collection. I'm hopeful that with proper care and attention, it will eventually thrive and live up to its reputation </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        <img src="{% static 'plants/images/reviews/review2.jpg' %}" alt="Plant 2" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Krishna</h5>
+          <p class="card-text">
+            ⭐⭐
+            <br>
+            I had a highly unsatisfactory experience with the orange pot plant I purchased. The plant looked unhealthy, and had the plant was much smaller than what was advertised on the website. Customer service was unresponsive, adding to the frustration. Overall, this purchase was a waste of money, and I strongly advise against buying this orange pot plant if you're looking for a healthy and attractive addition to your home. Save your money and seek a higher-quality plant elsewhere.</p>
+
+        </div>
+      </div>
+    </div>
+
+ <div class="col-md-4">
+
+      <div class="card mb-4 shadow-sm">
+        <img src="{% static 'plants/images/reviews/review3.jpg' %}" alt="Plant 2" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title"> Vraj Jadav</h5>
+          <p class="card-text">
+⭐⭐⭐⭐⭐
+<br>
+
+I recently bought the Enchanting Rose Plant and I'm thrilled with my purchase.
+            The plant arrived in excellent condition, packaged securely and on time. The care instructions were clear, and within days, I saw new growth and budding flowers. The fragrance is delightful, and the vibrant blooms add elegance to my space. A must-have for anyone seeking beauty and grace. Thank you, Nusering plants!
+            The plant arrived in excellent condition, packaged securely and on time .Thank you, Nusering plants!
+
+          </p>
+        </div>
+      </div>
+    </div>
+<br>
+    <br>
+  </div>
+
+<br>
+    <br>
+    <br>
+    <br>
+{% endblock main-content %}
+
