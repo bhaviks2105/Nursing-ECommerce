@@ -610,15 +610,6 @@ This project is an **Academic Project** developed at LJ University.
 
 ---
 
-## 📞 Contact
-
-**Bhavik S**
-
-- GitHub: [@bhaviks2105](https://github.com/bhaviks2105)
-- Email: [Your Email] (Replace with your actual email)
-- LinkedIn: [Your LinkedIn] (Replace with your profile)
-- University: LJ University
-
 **Project Link:** [https://github.com/bhaviks2105/Nursing-eCommerc](https://github.com/bhaviks2105/Nursing-eCommerc)
 
 ---
