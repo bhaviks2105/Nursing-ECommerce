@@ -1,4 +1,4 @@
-# 🏥 Nursing eCommerce Platform
+# 🏥 GreenCart
 
 <div align="center">
 
@@ -250,8 +250,8 @@ This project was developed as part of the curriculum at LJ University to demonst
 ### **Step 1: Clone the Repository**
 
 ```bash
-git clone https://github.com/bhaviks2105/Nursing-eCommerc.git
-cd Nursing-eCommerc
+git clone https://github.com/bhaviks2105/GreenCart
+cd GreenCart
 ```
 
 ### **Step 2: Create Virtual Environment**
