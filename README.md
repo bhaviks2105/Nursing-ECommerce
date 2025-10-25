@@ -13,6 +13,16 @@
 
 </div>
 
+# 🌿 GreenCart - Plant Nursery eCommerce Platform
+
+**Bring nature home with GreenCart - Your online plant paradise**
+
+A full-stack plant nursery eCommerce platform built with Django, 
+featuring real-time order tracking, secure payments, and a 
+beautiful catalog of plants, seeds, and gardening supplies.
+
+🌱 Browse Plants | 🛒 Easy Checkout | 📦 Real-time Tracking | 💳 Secure Payments
+
 ---
 
 ## 📋 Table of Contents
