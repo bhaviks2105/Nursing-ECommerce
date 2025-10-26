@@ -618,11 +618,7 @@ This project is an **Academic Project** developed at LJ University.
 
 © 2023-2024 Bhavik S. All rights reserved.
 
----
 
-**Project Link:** [https://github.com/bhaviks2105/Nursing-eCommerc](https://github.com/bhaviks2105/Nursing-eCommerc)
-
----
 
 ## 🙏 Acknowledgments
 - **Django Community** - For excellent documentation and support
